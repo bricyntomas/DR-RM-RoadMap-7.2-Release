@@ -1,3 +1,3 @@
 # example-tomcat-war
 
-Hi Tom
+Hi This is sample war project
